@@ -1,1 +1,2 @@
-# Car-is-fast-as-1000-horse
+# synchronousBallMovement
+Ball moving synchronously
